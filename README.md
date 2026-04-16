@@ -1,4 +1,4 @@
-[![header](https://capsule-render.vercel.app/api?type=cylinder&color=0:4A6FA5,100:8BBBD0&fontColor=FDF6E3&height=220&section=header&text=md-dedupe&fontSize=48&fontAlignY=35&desc=Find%20and%20handle%20duplicate%20markdown%20files&descSize=16&descAlignY=58&animation=blinking)](https://github.com/izag8216/md-dedupe)
+[![header](https://capsule-render.vercel.app/api?type=cylinder&color=0:4A6FA5,100:8BBBD0&fontColor=FDF6E3&height=220&section=header&text=md-dedupe&fontSize=48&fontAlignY=40&desc=Find%20and%20handle%20duplicate%20markdown%20files&descSize=16&descAlignY=55&animation=blinking)](https://github.com/izag8216/md-dedupe)
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![Python 3.10+](https://img.shields.io/badge/Python-3.10%2B-blue.svg)](https://www.python.org/)

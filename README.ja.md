@@ -1,4 +1,4 @@
-[![header](https://capsule-render.vercel.app/api?type=cylinder&color=0:4A6FA5,100:8BBBD0&fontColor=FDF6E3&height=220&section=header&text=md-dedupe&fontSize=48&fontAlignY=35&desc=Markdown%E3%83%95%E3%82%A1%E3%82%A4%E3%83%AB%E3%81%AE%E9%87%8D%E8%A4%87%E6%A4%9C%E5%87%BA%E3%83%BB%E7%B5%B1%E5%90%88%E3%83%84%E3%83%BC%E3%83%AB&descSize=16&descAlignY=58&animation=blinking)](https://github.com/izag8216/md-dedupe)
+[![header](https://capsule-render.vercel.app/api?type=cylinder&color=0:4A6FA5,100:8BBBD0&fontColor=FDF6E3&height=220&section=header&text=md-dedupe&fontSize=48&fontAlignY=40&desc=Markdown%E3%83%95%E3%82%A1%E3%82%A4%E3%83%AB%E3%81%AE%E9%87%8D%E8%A4%87%E6%A4%9C%E5%87%BA%E3%83%BB%E7%B5%B1%E5%90%88%E3%83%84%E3%83%BC%E3%83%AB&descSize=16&descAlignY=55&animation=blinking)](https://github.com/izag8216/md-dedupe)
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![Python 3.10+](https://img.shields.io/badge/Python-3.10%2B-blue.svg)](https://www.python.org/)
